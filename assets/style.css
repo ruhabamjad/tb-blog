@@ -1,0 +1,9 @@
+:root{
+    --body-bg: #f3f7f9;
+}
+html{
+    font-size: 0.875rem;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
