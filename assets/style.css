@@ -7,3 +7,7 @@ html{
 body{
     font-family: "Poppins", sans-serif;
 }
+.load-more svg{
+    margin-top: 0;
+    margin-bottom: 1px;
+}
