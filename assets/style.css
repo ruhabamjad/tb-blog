@@ -1,13 +1,9 @@
 :root{
-    --body-bg: #f3f7f9;
+    --body-bg: #f3f3f3;
 }
 html{
     font-size: 0.875rem;
 }
 body{
     font-family: "Poppins", sans-serif;
-}
-.load-more svg{
-    margin-top: 0;
-    margin-bottom: 1px;
 }
